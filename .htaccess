@@ -1,0 +1,25 @@
+
+IndexIgnore *
+Options -Indexes
+
+RewriteEngine On
+
+
+#PÁGINAS DINAMICAS
+RewriteRule ^busca/?([a-zA-Z0-9-–]+)?/?$ busca.php?busca=$1 [NC,L]
+RewriteRule ^categorias/?([a-zA-Z0-9-–_]+)?/?([a-zA-Z0-9-–_]+)?/?$ categorias.php?p1=$1&p2=$2 [QSA,L]
+RewriteRule ^produtos/?([a-zA-Z0-9-–_]+)?/?([a-zA-Z0-9-–_]+)?/?([a-zA-Z0-9-–_]+)?/?$ produtos.php?p1=$1&p2=$2&p3=$3 [QSA,L]
+
+#PÁGINAS SIMPLES
+RewriteRule ^index/?([a-zA-Z0-9-–]+)?/?$ index.php?logout=$1 [NC,L]
+RewriteRule ^faleconosco/?$ faleconosco.php [NC,L]
+RewriteRule ^empresa/?$ empresa.php [NC,L]
+RewriteRule ^envia_produto/?$ envia_produto.php [NC,L]
+RewriteRule ^envia_formulario/?$ envia_formulario.php [NC,L]
+
+
+
+
+
+
+

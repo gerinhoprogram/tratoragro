@@ -1,0 +1,496 @@
+[17-Aug-2021 15:08:40 UTC] PHP Warning:  include(core/mod_includes/php/connect.php): failed to open stream: No such file or directory in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:08:40 UTC] PHP Warning:  include(): Failed opening 'core/mod_includes/php/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:08:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tratoragrocom/public_html/header.php on line 5
+[17-Aug-2021 15:08:40 UTC] PHP Notice:  Undefined variable: PDO in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:08:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tratoragrocom/public_html/header.php:8
+Stack trace:
+#0 /home/tratoragrocom/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:09:11 UTC] PHP Warning:  include(core/mod_includes/php/connect.php): failed to open stream: No such file or directory in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:09:11 UTC] PHP Warning:  include(): Failed opening 'core/mod_includes/php/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:09:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tratoragrocom/public_html/header.php on line 5
+[17-Aug-2021 15:09:11 UTC] PHP Notice:  Undefined variable: PDO in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:09:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tratoragrocom/public_html/header.php:8
+Stack trace:
+#0 /home/tratoragrocom/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:10:11 UTC] PHP Warning:  include(core/mod_includes/php/connect.php): failed to open stream: No such file or directory in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:10:11 UTC] PHP Warning:  include(): Failed opening 'core/mod_includes/php/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:10:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tratoragrocom/public_html/header.php on line 5
+[17-Aug-2021 15:10:11 UTC] PHP Notice:  Undefined variable: PDO in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:10:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tratoragrocom/public_html/header.php:8
+Stack trace:
+#0 /home/tratoragrocom/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:11:17 UTC] PHP Warning:  include(core/mod_includes/php/connect.php): failed to open stream: No such file or directory in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:11:17 UTC] PHP Warning:  include(): Failed opening 'core/mod_includes/php/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:11:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tratoragrocom/public_html/header.php on line 5
+[17-Aug-2021 15:11:17 UTC] PHP Notice:  Undefined variable: PDO in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tratoragrocom/public_html/header.php:8
+Stack trace:
+#0 /home/tratoragrocom/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:12:05 UTC] PHP Warning:  include(core/mod_includes/php/connect.php): failed to open stream: No such file or directory in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:12:05 UTC] PHP Warning:  include(): Failed opening 'core/mod_includes/php/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:12:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tratoragrocom/public_html/header.php on line 5
+[17-Aug-2021 15:12:05 UTC] PHP Notice:  Undefined variable: PDO in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tratoragrocom/public_html/header.php:8
+Stack trace:
+#0 /home/tratoragrocom/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:12:09 UTC] PHP Warning:  include(core/mod_includes/php/connect.php): failed to open stream: No such file or directory in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:12:09 UTC] PHP Warning:  include(): Failed opening 'core/mod_includes/php/connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/tratoragrocom/public_html/header.php on line 3
+[17-Aug-2021 15:12:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/tratoragrocom/public_html/header.php on line 5
+[17-Aug-2021 15:12:09 UTC] PHP Notice:  Undefined variable: PDO in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 15:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/tratoragrocom/public_html/header.php:8
+Stack trace:
+#0 /home/tratoragrocom/public_html/index.php(5): include()
+#1 {main}
+  thrown in /home/tratoragrocom/public_html/header.php on line 8
+[17-Aug-2021 12:13:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/tratoragrocom/public_html/core/mod_includes/php/connect.php:34
+Stack trace:
+#0 /home/tratoragrocom/public_html/header.php(3): include()
+#1 /home/tratoragrocom/public_html/index.php(5): include('/home/tratoragr...')
+#2 {main}
+  thrown in /home/tratoragrocom/public_html/core/mod_includes/php/connect.php on line 34
+[17-Aug-2021 12:14:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/tratoragrocom/public_html/core/mod_includes/php/connect.php:34
+Stack trace:
+#0 /home/tratoragrocom/public_html/header.php(3): include()
+#1 /home/tratoragrocom/public_html/index.php(5): include('/home/tratoragr...')
+#2 {main}
+  thrown in /home/tratoragrocom/public_html/core/mod_includes/php/connect.php on line 34
+[17-Aug-2021 22:38:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[17-Aug-2021 22:43:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[17-Aug-2021 22:47:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[18-Aug-2021 06:10:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[18-Aug-2021 06:16:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[18-Aug-2021 06:31:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[20-Aug-2021 23:02:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[20-Aug-2021 23:20:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[21-Aug-2021 00:17:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[21-Aug-2021 03:51:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[21-Aug-2021 03:51:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[22-Aug-2021 09:40:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[23-Aug-2021 00:13:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[24-Aug-2021 05:10:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[24-Aug-2021 15:46:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[24-Aug-2021 16:07:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[24-Aug-2021 17:09:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[25-Aug-2021 08:14:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[25-Aug-2021 16:40:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tratoragrocom/public_html/index.php:1) in /home/tratoragrocom/public_html/core/mod_includes/php/ctracker.php on line 48
+[25-Aug-2021 15:08:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[26-Aug-2021 09:57:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[26-Aug-2021 16:27:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tratoragrocom/public_html/index.php:1) in /home/tratoragrocom/public_html/core/mod_includes/php/ctracker.php on line 48
+[26-Aug-2021 17:04:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[26-Aug-2021 18:29:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[26-Aug-2021 19:11:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[26-Aug-2021 21:00:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[27-Aug-2021 02:43:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[27-Aug-2021 09:49:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[27-Aug-2021 16:45:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[27-Aug-2021 16:45:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[27-Aug-2021 16:46:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[27-Aug-2021 19:10:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Aug-2021 00:00:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[30-Aug-2021 20:48:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[01-Sep-2021 07:47:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:47:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:47:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:48:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:48:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:48:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:48:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:48:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:48:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:48:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:48:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[01-Sep-2021 07:49:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:50:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:50:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:51:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:51:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:55:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:55:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:55:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 07:56:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[01-Sep-2021 10:58:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[01-Sep-2021 17:15:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[01-Sep-2021 21:05:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[01-Sep-2021 21:05:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[01-Sep-2021 21:05:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[03-Sep-2021 23:13:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[05-Sep-2021 12:35:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[05-Sep-2021 19:20:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[07-Sep-2021 00:56:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[07-Sep-2021 03:18:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[07-Sep-2021 21:12:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 112
+[07-Sep-2021 21:12:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:12:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:12:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:12:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:13:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:13:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:13:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[07-Sep-2021 21:13:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home/tratoragrocom/public_html/categorias.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 33
+[08-Sep-2021 01:24:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[08-Sep-2021 22:14:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[10-Sep-2021 02:42:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[13-Sep-2021 12:26:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[17-Sep-2021 02:25:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[19-Sep-2021 04:08:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[21-Sep-2021 07:40:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[21-Sep-2021 10:31:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[21-Sep-2021 17:07:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[22-Sep-2021 13:24:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[23-Sep-2021 09:29:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[24-Sep-2021 02:37:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[24-Sep-2021 09:20:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[25-Sep-2021 01:53:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[26-Sep-2021 02:54:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[27-Sep-2021 12:08:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 00:27:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 00:28:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 00:28:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 00:28:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 07:03:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 07:03:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 07:03:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[28-Sep-2021 07:03:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
+[29-Sep-2021 09:32:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/tratoragrocom/public_html/categorias.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/tratoragrocom/public_html/categorias.php on line 199
